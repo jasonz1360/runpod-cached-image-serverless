@@ -1,7 +1,7 @@
 runpod==1.8.1
 git+https://github.com/huggingface/diffusers.git@c5469b7ceb606edd7ba6570dcd17d38590a18db6
-transformers==4.57.3
-accelerate==1.12.0
+transformers
+accelerate
 safetensors>=0.8.0
 sentencepiece==0.2.1
 protobuf==6.33.2
